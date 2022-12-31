@@ -1,0 +1,190 @@
+  body{
+    background-color: #fff;
+  }
+
+  .ortala{
+    text-align: center;
+    margin-left: 40px;
+  }
+
+  .header{
+    background-color: green;
+    color: #fff;
+    height: 50px;
+    width: 100%;
+    padding-top: 20px;
+    text-align: center;
+    font-size: large;
+    font-weight: 500;
+    position: fixed;
+    top: 0;
+  }
+
+  .filtreler{
+    border: 1px solid #ddd;
+    padding: 10px 0 10px 140px;
+    background-color: rgb(241, 236, 236);
+    margin-top: 70px;
+  }
+
+  .filtre{
+    font-weight: 700;
+  }
+
+  .cinsiyet{
+    font-weight: 400;
+    margin-left: 20px;
+    border-right: 1px solid black;
+    padding-right: 20px;
+  }
+
+  .erkek{
+    margin-left: 10px;
+  }
+
+  .kategori{
+    font-weight: 400;
+    margin-left: 20px;
+    padding-right: 20px;
+  }
+
+  .jean{
+    margin-left: 10px;
+  }
+
+  .uygula{
+    color: black;
+    padding: 5px;
+    margin-left: 447px;
+  }
+
+  .product{
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 30px 20px 30px 20px;
+    width: 300px;
+    height: 400px;
+    float: left;
+  }
+
+  .title{
+    background-color: orange;
+    border: 1px solid orange;
+    height: 40px;
+    width: 100%;
+    margin: -11px 0 30px -11px;
+    padding: 0 10px 20px 10px;
+  }
+
+  .resim{
+    height: 270px;
+    width: 200px;
+    margin-top: -20px;
+  }
+
+  .price{
+    color: blue;
+    font-weight: 500;
+  }
+
+  .sat1{
+    background-color: red;
+    color: #fff;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-right: 2px;
+    padding: 3px 8px;
+  }
+
+  .sat2{
+    background-color: grey;
+    color: #fff;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-right: 2px;
+    padding: 3px 8px;
+  }
+
+  .al1{
+    background-color: grey;
+    color: #fff;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-left: 2px;
+    padding: 3px 8px;
+  }
+
+  .al2{
+    background-color: green;
+    color: #fff;
+    border: 1px solid green;
+    border-radius: 5px;
+    margin-left: 2px;
+    padding: 3px 8px;
+  }
+
+  .priceSellBuy{
+    background-color: rgb(248, 234, 237);
+    width: 100%;
+    margin: 5px 0 0 -10px;
+    padding: 5px 10px 5px 10px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .myBasket1{
+    width: 200px;
+    height: 250px;
+    margin-left: 1130px;
+    margin-top: 30px;
+    position: fixed;
+    border: 2px solid orange;
+  }
+
+  .myBasket2{
+    font-weight: 600;
+    padding: 5px 0 8px 5px;
+    background-color: red;
+    border-bottom: 1px solid grey;
+    color: white;
+  }
+
+  .myBasket3{
+    float: left;
+    margin-right: 20px;
+    padding: 2px;
+    font-weight: 400;
+  }
+
+  .myBasket4{
+    padding: 2px;
+    font-weight: 500;
+  }
+
+  .myBasket5{
+    width: 190px;
+    height: 50px;
+    color: red;
+    border-top: 1px solid grey;
+    margin-left: 1132px;
+    margin-top: 250px;
+    position: fixed;
+    padding: 5px; 
+  }
+
+  .myBasket6{
+    margin-right: 30px; 
+  }
+
+  .myBasket7{
+    margin-left: 1130px;
+    margin-top: 286px;
+    position: fixed;
+  }
+
+  .myBasket8{
+    padding: 5px 62px;
+    background-color: rgb(90, 88, 88);
+    color: white;
+    border: 2px solid orange;
+  }

@@ -1,0 +1,98 @@
+[
+    {
+        "id" : 1,
+        "title" : "sweatshirt",
+        "gender" : "man",
+        "address" : "https://f-lwr-l.mncdn.com/livephotos/L221467001/L221467001001_5.jpg",
+        "price" : 299,
+        "model" : "Model 1"
+    },
+    {
+        "id" : 2,
+        "title" : "sweatshirt",
+        "gender" : "man",
+        "address" : "https://f-lwr-l.mncdn.com/livephotos/W212026037/W212026037037_3_1.jpg",
+        "price" : 269,
+        "model" : "Model 2"
+    },
+    {
+        "id" : 3,
+        "title" : "sweatshirt",
+        "gender" : "man",
+        "address" : "https://www.madmext.com/Uploads/UrunResimleri/Thumb/madmext-fume-oversize-erkek-sweatshirt-e2e-44.jpg",
+        "price" : 399,
+        "model" : "Model 3"
+    },
+    {
+        "id" : 4,
+        "title" : "sweatshirt",
+        "gender" : "woman",
+        "address" : "https://productimages.hepsiburada.net/l/50/600-800/11031030136882.jpg",
+        "price" : 299,
+        "model" : "Model 4"
+    },
+    {
+        "id" : 5,
+        "title" : "sweatshirt",
+        "gender" : "woman",
+        "address" : "https://statics.boyner.com.tr/mnresize/325/451/productimages/5002926183_300_01.jpg",
+        "price" : 499,
+        "model" : "Model 5"
+    },
+    {
+        "id" : 6,
+        "title" : "sweatshirt",
+        "gender" : "woman",
+        "address" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD7MOUYpAd9OSa8pFRbjk4fkjGWImqoQjoeA&usqp=CAU",
+        "price" : 349,
+        "model" : "Model 6"
+    },
+    {
+        "id" : 7,
+        "title" : "jean",
+        "gender" : "man",
+        "address" : "https://ae01.alicdn.com/kf/Heea3477ec8c64964a6d6c696da91fadf1/VOMINT-Jeans-Men-Clothes-Modis-Homme-Pants-Brand-Mens-Jean-Smart-Casual-Denim-Man-Slim-Fit.jpg_Q90.jpg_.webp",
+        "price" : 549,
+        "model" : "Model 7"
+    },
+    {
+        "id" : 8,
+        "title" : "jean",
+        "gender" : "man",
+        "address" : "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1649703362-na999-dm4494-d5-1649703357.jpg",
+        "price" : 599,
+        "model" : "Model 8"
+    },
+    {
+        "id" : 9,
+        "title" : "jean",
+        "gender" : "man",
+        "address" : "https://www.outfit-man.com/Uploads/UrunResimleri/basic-jogger-jean-1b6810.jpg",
+        "price" : 449,
+        "model" : "Model 9"
+    },
+    {
+        "id" : 10,
+        "title" : "jean",
+        "gender" : "woman",
+        "address" : "https://ltbjeans-hybris-p1.mncdn.com/mnresize/790/1059/media/products/01009510301427751580_1.jpg",
+        "price" : 399,
+        "model" : "Model 10"
+    },
+    {
+        "id" : 11,
+        "title" : "jean",
+        "gender" : "woman",
+        "address" : "https://cdn.sorsware.com/oxxo/ContentImages/Product/22k/22KOX-PERLY/ultra-yuksek-bel-slim-fit-denim-pantolon_rodeo-denim-mavi_1_buyuk.jpg",
+        "price" : 499,
+        "model" : "Model 11"
+    },
+    {
+        "id" : 12,
+        "title" : "jean",
+        "gender" : "woman",
+        "address" : "https://sourcingjournal.com/wp-content/uploads/2021/03/womenDenim.jpg",
+        "price" : 599,
+        "model" : "Model 12"
+    }
+]
